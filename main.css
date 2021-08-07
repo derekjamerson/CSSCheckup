@@ -1,0 +1,19 @@
+.body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Wham-div{
+    border-style:ridge;
+    border-width: 20px;
+    text-align: center;
+    background-color:wheat;
+}
+
+#Wham-wiki{
+    padding: 0% 12% 0% 12%;
+}
+
+#Wham-pic{
+    width: 1000px;
+    height: 683px;
+}
